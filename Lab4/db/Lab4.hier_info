@@ -1,0 +1,26 @@
+|Lab4
+clk => audio.CLK
+clk => audio_count[0].CLK
+clk => audio_count[1].CLK
+clk => audio_count[2].CLK
+clk => audio_count[3].CLK
+clk => audio_count[4].CLK
+clk => audio_count[5].CLK
+clk => audio_count[6].CLK
+clk => audio_count[7].CLK
+clk => audio_count[8].CLK
+clk => audio_count[9].CLK
+clk => audio_count[10].CLK
+clk => audio_count[11].CLK
+clk => audio_count[12].CLK
+clk => audio_count[13].CLK
+clk => audio_count[14].CLK
+clk => carrier.CLK
+clk => rf_count[0].CLK
+clk => rf_count[1].CLK
+clk => rf_count[2].CLK
+clk => rf_count[3].CLK
+clk => rf_count[4].CLK
+rf_out << rf_out.DB_MAX_OUTPUT_PORT_TYPE
+
+
