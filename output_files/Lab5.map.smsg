@@ -1,0 +1,2 @@
+Info (10281): Verilog HDL Declaration information at Lab5.v(4): object "X" differs only in case from object "x" in the same scope File: C:/Users/rcior/AppData/Local/quartus/Lab5/Lab5.v Line: 4
+Info (10281): Verilog HDL Declaration information at Lab5.v(4): object "Y" differs only in case from object "y" in the same scope File: C:/Users/rcior/AppData/Local/quartus/Lab5/Lab5.v Line: 4
