@@ -1,0 +1,15 @@
+|Senzor_Lumina
+clk => light[0].CLK
+clk => light[1].CLK
+sensor => light[0].DATAIN
+ldr_power << <VCC>
+S1 => ~NO_FANOUT~
+S2 => ~NO_FANOUT~
+KEY3 => ~NO_FANOUT~
+KEY4 => ~NO_FANOUT~
+led1 << light[1].DB_MAX_OUTPUT_PORT_TYPE
+led2 << <VCC>
+led3 << light[1].DB_MAX_OUTPUT_PORT_TYPE
+buzzer << <VCC>
+
+
